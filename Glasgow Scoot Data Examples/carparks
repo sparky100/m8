@@ -1,0 +1,713 @@
+{
+    "version": "1.0",
+    "encoding": "UTF-8",
+    "d2lm$d2LogicalModel": {
+        "@xmlns$d2lm": "http://datex2.eu/schema/1_0/1_0",
+        "@xmlns$xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xmlns$xalan": "http://xml.apache.org/xslt",
+        "@xmlns$java": "http://xml.apache.org/xalan/java",
+        "@modelBaseVersion": "1.0",
+        "@xsi$schemaLocation": "http://datex2.eu/schema/1_0/1_0 http://datex2.eu/schema/1_0/1_0/DATEXIISchema_1_0_1_0.xsd",
+        "d2lm$exchange": {
+            "d2lm$supplierIdentification": {
+                "d2lm$country": "gb",
+                "d2lm$nationalIdentifier": "TIH Toolkit"
+            }
+        },
+        "d2lm$payloadPublication": {
+            "@lang": "en",
+            "@xsi$type": "d2lm:SituationPublication",
+            "d2lm$publicationTime": "2021-10-09T19:10:53",
+            "d2lm$publicationCreator": {
+                "d2lm$country": "gb",
+                "d2lm$nationalIdentifier": "TIH Toolkit"
+            },
+            "d2lm$situation": [
+                {
+                    "@id": "CPG25C",
+                    "d2lm$headerInformation": {
+                        "d2lm$confidentiality": "noRestriction",
+                        "d2lm$informationStatus": "real"
+                    },
+                    "d2lm$situationRecord": {
+                        "@id": "CPG25C_1",
+                        "@xsi$type": "d2lm:CarParks",
+                        "d2lm$situationRecordCreationTime": "2021-10-09T20:08:19",
+                        "d2lm$situationRecordVersion": "1",
+                        "d2lm$situationRecordVersionTime": "2021-10-09T20:08:19",
+                        "d2lm$situationRecordFirstSupplierVersionTime": "2021-10-09T20:08:19",
+                        "d2lm$probabilityOfOccurrence": "certain",
+                        "d2lm$validity": {
+                            "d2lm$validityStatus": "active",
+                            "d2lm$validityTimeSpecification": {
+                                "d2lm$overallStartTime": "2021-10-09T20:08:19"
+                            }
+                        },
+                        "d2lm$groupOfLocations": {
+                            "d2lm$locationContainedInGroup": {
+                                "@xsi$type": "d2lm:Point",
+                                "d2lm$pointByCoordinates": {
+                                    "d2lm$pointCoordinates": {
+                                        "d2lm$latitude": "55.85988984843241",
+                                        "d2lm$longitude": "-4.282341367108816"
+                                    }
+                                }
+                            }
+                        },
+                        "d2lm$carParkIdentity": "Glasgow - SECC:CPG25C",
+                        "d2lm$carParkOccupancy": "29.7",
+                        "d2lm$carParkStatus": "enoughSpacesAvailable",
+                        "d2lm$occupiedSpaces": "476",
+                        "d2lm$totalCapacity": "1600"
+                    }
+                },
+                {
+                    "@id": "CPG24C",
+                    "d2lm$headerInformation": {
+                        "d2lm$confidentiality": "noRestriction",
+                        "d2lm$informationStatus": "real"
+                    },
+                    "d2lm$situationRecord": {
+                        "@id": "CPG24C_1",
+                        "@xsi$type": "d2lm:CarParks",
+                        "d2lm$situationRecordCreationTime": "2021-10-09T20:08:19",
+                        "d2lm$situationRecordVersion": "1",
+                        "d2lm$situationRecordVersionTime": "2021-10-09T20:08:19",
+                        "d2lm$situationRecordFirstSupplierVersionTime": "2021-10-09T20:08:19",
+                        "d2lm$probabilityOfOccurrence": "certain",
+                        "d2lm$validity": {
+                            "d2lm$validityStatus": "active",
+                            "d2lm$validityTimeSpecification": {
+                                "d2lm$overallStartTime": "2021-10-09T20:08:19"
+                            }
+                        },
+                        "d2lm$groupOfLocations": {
+                            "d2lm$locationContainedInGroup": {
+                                "@xsi$type": "d2lm:Point",
+                                "d2lm$pointByCoordinates": {
+                                    "d2lm$pointCoordinates": {
+                                        "d2lm$latitude": "55.85966175538049",
+                                        "d2lm$longitude": "-4.236528758151018"
+                                    }
+                                }
+                            }
+                        },
+                        "d2lm$carParkIdentity": "Glasgow - Duke Street Car Park:CPG24C",
+                        "d2lm$carParkOccupancy": "7.4",
+                        "d2lm$carParkStatus": "enoughSpacesAvailable",
+                        "d2lm$occupiedSpaces": "87",
+                        "d2lm$totalCapacity": "1170"
+                    }
+                },
+                {
+                    "@id": "CPG21C",
+                    "d2lm$headerInformation": {
+                        "d2lm$confidentiality": "noRestriction",
+                        "d2lm$informationStatus": "real"
+                    },
+                    "d2lm$situationRecord": {
+                        "@id": "CPG21C_1",
+                        "@xsi$type": "d2lm:CarParks",
+                        "d2lm$situationRecordCreationTime": "2021-10-09T20:08:18",
+                        "d2lm$situationRecordVersion": "1",
+                        "d2lm$situationRecordVersionTime": "2021-10-09T20:08:18",
+                        "d2lm$situationRecordFirstSupplierVersionTime": "2021-10-09T20:08:18",
+                        "d2lm$probabilityOfOccurrence": "certain",
+                        "d2lm$validity": {
+                            "d2lm$validityStatus": "active",
+                            "d2lm$validityTimeSpecification": {
+                                "d2lm$overallStartTime": "2021-10-09T20:08:18"
+                            }
+                        },
+                        "d2lm$groupOfLocations": {
+                            "d2lm$locationContainedInGroup": {
+                                "@xsi$type": "d2lm:Point",
+                                "d2lm$pointByCoordinates": {
+                                    "d2lm$pointCoordinates": {
+                                        "d2lm$latitude": "55.869167760473324",
+                                        "d2lm$longitude": "-4.258813645522479"
+                                    }
+                                }
+                            }
+                        },
+                        "d2lm$carParkIdentity": "Glasgow - Dundasvale Car Park 2:CPG21C",
+                        "d2lm$carParkOccupancy": "57.6",
+                        "d2lm$carParkStatus": "enoughSpacesAvailable",
+                        "d2lm$occupiedSpaces": "49",
+                        "d2lm$totalCapacity": "85"
+                    }
+                },
+                {
+                    "@id": "CPG15C",
+                    "d2lm$headerInformation": {
+                        "d2lm$confidentiality": "noRestriction",
+                        "d2lm$informationStatus": "real"
+                    },
+                    "d2lm$situationRecord": {
+                        "@id": "CPG15C_1",
+                        "@xsi$type": "d2lm:CarParks",
+                        "d2lm$situationRecordCreationTime": "2018-10-02T08:46:41",
+                        "d2lm$situationRecordVersion": "1",
+                        "d2lm$situationRecordVersionTime": "2018-10-02T08:46:41",
+                        "d2lm$situationRecordFirstSupplierVersionTime": "2018-10-02T08:46:41",
+                        "d2lm$probabilityOfOccurrence": "certain",
+                        "d2lm$validity": {
+                            "d2lm$validityStatus": "active",
+                            "d2lm$validityTimeSpecification": {
+                                "d2lm$overallStartTime": "2018-10-02T08:46:41"
+                            }
+                        },
+                        "d2lm$groupOfLocations": {
+                            "d2lm$locationContainedInGroup": {
+                                "@xsi$type": "d2lm:Point",
+                                "d2lm$pointByCoordinates": {
+                                    "d2lm$pointCoordinates": {
+                                        "d2lm$latitude": "55.86548682162141",
+                                        "d2lm$longitude": "-4.23497771554331"
+                                    }
+                                }
+                            }
+                        },
+                        "d2lm$carParkIdentity": "Glasgow - Royal Infirmary Car Pa:CPG15C",
+                        "d2lm$carParkOccupancy": "-133.2",
+                        "d2lm$carParkStatus": "enoughSpacesAvailable",
+                        "d2lm$occupiedSpaces": "-999",
+                        "d2lm$totalCapacity": "750"
+                    }
+                },
+                {
+                    "@id": "CPG14C",
+                    "d2lm$headerInformation": {
+                        "d2lm$confidentiality": "noRestriction",
+                        "d2lm$informationStatus": "real"
+                    },
+                    "d2lm$situationRecord": {
+                        "@id": "CPG14C_1",
+                        "@xsi$type": "d2lm:CarParks",
+                        "d2lm$situationRecordCreationTime": "2018-10-02T08:46:41",
+                        "d2lm$situationRecordVersion": "1",
+                        "d2lm$situationRecordVersionTime": "2018-10-02T08:46:41",
+                        "d2lm$situationRecordFirstSupplierVersionTime": "2018-10-02T08:46:41",
+                        "d2lm$probabilityOfOccurrence": "certain",
+                        "d2lm$validity": {
+                            "d2lm$validityStatus": "active",
+                            "d2lm$validityTimeSpecification": {
+                                "d2lm$overallStartTime": "2018-10-02T08:46:41"
+                            }
+                        },
+                        "d2lm$groupOfLocations": {
+                            "d2lm$locationContainedInGroup": {
+                                "@xsi$type": "d2lm:Point",
+                                "d2lm$pointByCoordinates": {
+                                    "d2lm$pointCoordinates": {
+                                        "d2lm$latitude": "55.86123812209307",
+                                        "d2lm$longitude": "-4.244721620331509"
+                                    }
+                                }
+                            }
+                        },
+                        "d2lm$carParkIdentity": "Glasgow - George Street Car Park:CPG14C",
+                        "d2lm$carParkOccupancy": "-344.4",
+                        "d2lm$carParkStatus": "enoughSpacesAvailable",
+                        "d2lm$occupiedSpaces": "-999",
+                        "d2lm$totalCapacity": "290"
+                    }
+                },
+                {
+                    "@id": "CPG13C",
+                    "d2lm$headerInformation": {
+                        "d2lm$confidentiality": "noRestriction",
+                        "d2lm$informationStatus": "real"
+                    },
+                    "d2lm$situationRecord": {
+                        "@id": "CPG13C_1",
+                        "@xsi$type": "d2lm:CarParks",
+                        "d2lm$situationRecordCreationTime": "2012-10-02T09:05:11",
+                        "d2lm$situationRecordVersion": "1",
+                        "d2lm$situationRecordVersionTime": "2012-10-02T09:05:11",
+                        "d2lm$situationRecordFirstSupplierVersionTime": "2012-10-02T09:05:11",
+                        "d2lm$probabilityOfOccurrence": "certain",
+                        "d2lm$validity": {
+                            "d2lm$validityStatus": "active",
+                            "d2lm$validityTimeSpecification": {
+                                "d2lm$overallStartTime": "2012-10-02T09:05:11"
+                            }
+                        },
+                        "d2lm$groupOfLocations": {
+                            "d2lm$locationContainedInGroup": {
+                                "@xsi$type": "d2lm:Point",
+                                "d2lm$pointByCoordinates": {
+                                    "d2lm$pointCoordinates": {
+                                        "d2lm$latitude": "55.85977254007017",
+                                        "d2lm$longitude": "-4.239331652385187"
+                                    }
+                                }
+                            }
+                        },
+                        "d2lm$carParkIdentity": "Glasgow - High Street Pay &amp; Disp:CPG13C",
+                        "d2lm$carParkOccupancy": "0.0",
+                        "d2lm$carParkStatus": "enoughSpacesAvailable",
+                        "d2lm$occupiedSpaces": "0",
+                        "d2lm$totalCapacity": "0"
+                    }
+                },
+                {
+                    "@id": "CPG12C",
+                    "d2lm$headerInformation": {
+                        "d2lm$confidentiality": "noRestriction",
+                        "d2lm$informationStatus": "real"
+                    },
+                    "d2lm$situationRecord": {
+                        "@id": "CPG12C_1",
+                        "@xsi$type": "d2lm:CarParks",
+                        "d2lm$situationRecordCreationTime": "2018-10-02T08:46:41",
+                        "d2lm$situationRecordVersion": "1",
+                        "d2lm$situationRecordVersionTime": "2018-10-02T08:46:41",
+                        "d2lm$situationRecordFirstSupplierVersionTime": "2018-10-02T08:46:41",
+                        "d2lm$probabilityOfOccurrence": "certain",
+                        "d2lm$validity": {
+                            "d2lm$validityStatus": "active",
+                            "d2lm$validityTimeSpecification": {
+                                "d2lm$overallStartTime": "2018-10-02T08:46:41"
+                            }
+                        },
+                        "d2lm$groupOfLocations": {
+                            "d2lm$locationContainedInGroup": {
+                                "@xsi$type": "d2lm:Point",
+                                "d2lm$pointByCoordinates": {
+                                    "d2lm$pointCoordinates": {
+                                        "d2lm$latitude": "55.858371924196575",
+                                        "d2lm$longitude": "-4.24861509096708"
+                                    }
+                                }
+                            }
+                        },
+                        "d2lm$carParkIdentity": "Glasgow - The Glasshouse Car Par:CPG12C",
+                        "d2lm$carParkOccupancy": "-195.8",
+                        "d2lm$carParkStatus": "enoughSpacesAvailable",
+                        "d2lm$occupiedSpaces": "-999",
+                        "d2lm$totalCapacity": "510"
+                    }
+                },
+                {
+                    "@id": "CPG11C",
+                    "d2lm$headerInformation": {
+                        "d2lm$confidentiality": "noRestriction",
+                        "d2lm$informationStatus": "real"
+                    },
+                    "d2lm$situationRecord": {
+                        "@id": "CPG11C_1",
+                        "@xsi$type": "d2lm:CarParks",
+                        "d2lm$situationRecordCreationTime": "2021-10-09T07:00:10",
+                        "d2lm$situationRecordVersion": "1",
+                        "d2lm$situationRecordVersionTime": "2021-10-09T07:00:10",
+                        "d2lm$situationRecordFirstSupplierVersionTime": "2021-10-09T07:00:10",
+                        "d2lm$probabilityOfOccurrence": "certain",
+                        "d2lm$validity": {
+                            "d2lm$validityStatus": "active",
+                            "d2lm$validityTimeSpecification": {
+                                "d2lm$overallStartTime": "2021-10-09T07:00:10"
+                            }
+                        },
+                        "d2lm$groupOfLocations": {
+                            "d2lm$locationContainedInGroup": {
+                                "@xsi$type": "d2lm:Point",
+                                "d2lm$pointByCoordinates": {
+                                    "d2lm$pointCoordinates": {
+                                        "d2lm$latitude": "55.85775922101256",
+                                        "d2lm$longitude": "-4.245255977542678"
+                                    }
+                                }
+                            }
+                        },
+                        "d2lm$carParkIdentity": "Glasgow - Candleriggs - 37, Albi:CPG11C",
+                        "d2lm$carParkOccupancy": "-232.3",
+                        "d2lm$carParkStatus": "enoughSpacesAvailable",
+                        "d2lm$occupiedSpaces": "-999",
+                        "d2lm$totalCapacity": "430"
+                    }
+                },
+                {
+                    "@id": "CPG10C",
+                    "d2lm$headerInformation": {
+                        "d2lm$confidentiality": "noRestriction",
+                        "d2lm$informationStatus": "real"
+                    },
+                    "d2lm$situationRecord": {
+                        "@id": "CPG10C_1",
+                        "@xsi$type": "d2lm:CarParks",
+                        "d2lm$situationRecordCreationTime": "2018-10-02T08:46:41",
+                        "d2lm$situationRecordVersion": "1",
+                        "d2lm$situationRecordVersionTime": "2018-10-02T08:46:41",
+                        "d2lm$situationRecordFirstSupplierVersionTime": "2018-10-02T08:46:41",
+                        "d2lm$probabilityOfOccurrence": "certain",
+                        "d2lm$validity": {
+                            "d2lm$validityStatus": "active",
+                            "d2lm$validityTimeSpecification": {
+                                "d2lm$overallStartTime": "2018-10-02T08:46:41"
+                            }
+                        },
+                        "d2lm$groupOfLocations": {
+                            "d2lm$locationContainedInGroup": {
+                                "@xsi$type": "d2lm:Point",
+                                "d2lm$pointByCoordinates": {
+                                    "d2lm$pointCoordinates": {
+                                        "d2lm$latitude": "55.86035416531329",
+                                        "d2lm$longitude": "-4.264022953265363"
+                                    }
+                                }
+                            }
+                        },
+                        "d2lm$carParkIdentity": "Glasgow - Waterloo Street\t- 99,:CPG10C",
+                        "d2lm$carParkOccupancy": "-151.3",
+                        "d2lm$carParkStatus": "enoughSpacesAvailable",
+                        "d2lm$occupiedSpaces": "-999",
+                        "d2lm$totalCapacity": "660"
+                    }
+                },
+                {
+                    "@id": "CPG09C",
+                    "d2lm$headerInformation": {
+                        "d2lm$confidentiality": "noRestriction",
+                        "d2lm$informationStatus": "real"
+                    },
+                    "d2lm$situationRecord": {
+                        "@id": "CPG09C_1",
+                        "@xsi$type": "d2lm:CarParks",
+                        "d2lm$situationRecordCreationTime": "2018-10-02T08:46:41",
+                        "d2lm$situationRecordVersion": "1",
+                        "d2lm$situationRecordVersionTime": "2018-10-02T08:46:41",
+                        "d2lm$situationRecordFirstSupplierVersionTime": "2018-10-02T08:46:41",
+                        "d2lm$probabilityOfOccurrence": "certain",
+                        "d2lm$validity": {
+                            "d2lm$validityStatus": "active",
+                            "d2lm$validityTimeSpecification": {
+                                "d2lm$overallStartTime": "2018-10-02T08:46:41"
+                            }
+                        },
+                        "d2lm$groupOfLocations": {
+                            "d2lm$locationContainedInGroup": {
+                                "@xsi$type": "d2lm:Point",
+                                "d2lm$pointByCoordinates": {
+                                    "d2lm$pointCoordinates": {
+                                        "d2lm$latitude": "55.86463876058145",
+                                        "d2lm$longitude": "-4.260244779380231"
+                                    }
+                                }
+                            }
+                        },
+                        "d2lm$carParkIdentity": "Glasgow - Sauchiehall Street - 1:CPG09C",
+                        "d2lm$carParkOccupancy": "-999.0",
+                        "d2lm$carParkStatus": "enoughSpacesAvailable",
+                        "d2lm$occupiedSpaces": "-999",
+                        "d2lm$totalCapacity": "100"
+                    }
+                },
+                {
+                    "@id": "CPG08C",
+                    "d2lm$headerInformation": {
+                        "d2lm$confidentiality": "noRestriction",
+                        "d2lm$informationStatus": "real"
+                    },
+                    "d2lm$situationRecord": {
+                        "@id": "CPG08C_1",
+                        "@xsi$type": "d2lm:CarParks",
+                        "d2lm$situationRecordCreationTime": "2018-10-02T08:46:41",
+                        "d2lm$situationRecordVersion": "1",
+                        "d2lm$situationRecordVersionTime": "2018-10-02T08:46:41",
+                        "d2lm$situationRecordFirstSupplierVersionTime": "2018-10-02T08:46:41",
+                        "d2lm$probabilityOfOccurrence": "certain",
+                        "d2lm$validity": {
+                            "d2lm$validityStatus": "active",
+                            "d2lm$validityTimeSpecification": {
+                                "d2lm$overallStartTime": "2018-10-02T08:46:41"
+                            }
+                        },
+                        "d2lm$groupOfLocations": {
+                            "d2lm$locationContainedInGroup": {
+                                "@xsi$type": "d2lm:Point",
+                                "d2lm$pointByCoordinates": {
+                                    "d2lm$pointCoordinates": {
+                                        "d2lm$latitude": "55.86007766615121",
+                                        "d2lm$longitude": "-4.2560806030746825"
+                                    }
+                                }
+                            }
+                        },
+                        "d2lm$carParkIdentity": "Glasgow - Mitchell Street Car Pa:CPG08C",
+                        "d2lm$carParkOccupancy": "-454.0",
+                        "d2lm$carParkStatus": "enoughSpacesAvailable",
+                        "d2lm$occupiedSpaces": "-999",
+                        "d2lm$totalCapacity": "220"
+                    }
+                },
+                {
+                    "@id": "CPG07C",
+                    "d2lm$headerInformation": {
+                        "d2lm$confidentiality": "noRestriction",
+                        "d2lm$informationStatus": "real"
+                    },
+                    "d2lm$situationRecord": {
+                        "@id": "CPG07C_1",
+                        "@xsi$type": "d2lm:CarParks",
+                        "d2lm$situationRecordCreationTime": "2021-10-09T20:08:18",
+                        "d2lm$situationRecordVersion": "1",
+                        "d2lm$situationRecordVersionTime": "2021-10-09T20:08:18",
+                        "d2lm$situationRecordFirstSupplierVersionTime": "2021-10-09T20:08:18",
+                        "d2lm$probabilityOfOccurrence": "certain",
+                        "d2lm$validity": {
+                            "d2lm$validityStatus": "active",
+                            "d2lm$validityTimeSpecification": {
+                                "d2lm$overallStartTime": "2021-10-09T20:08:18"
+                            }
+                        },
+                        "d2lm$groupOfLocations": {
+                            "d2lm$locationContainedInGroup": {
+                                "@xsi$type": "d2lm:Point",
+                                "d2lm$pointByCoordinates": {
+                                    "d2lm$pointCoordinates": {
+                                        "d2lm$latitude": "55.864730862024224",
+                                        "d2lm$longitude": "-4.268912534797298"
+                                    }
+                                }
+                            }
+                        },
+                        "d2lm$carParkIdentity": "Glasgow - Charing Cross Car Park:CPG07C",
+                        "d2lm$carParkOccupancy": "60.7",
+                        "d2lm$carParkStatus": "enoughSpacesAvailable",
+                        "d2lm$occupiedSpaces": "263",
+                        "d2lm$totalCapacity": "433"
+                    }
+                },
+                {
+                    "@id": "CPG06C",
+                    "d2lm$headerInformation": {
+                        "d2lm$confidentiality": "noRestriction",
+                        "d2lm$informationStatus": "real"
+                    },
+                    "d2lm$situationRecord": {
+                        "@id": "CPG06C_1",
+                        "@xsi$type": "d2lm:CarParks",
+                        "d2lm$situationRecordCreationTime": "2021-10-09T20:08:18",
+                        "d2lm$situationRecordVersion": "1",
+                        "d2lm$situationRecordVersionTime": "2021-10-09T20:08:18",
+                        "d2lm$situationRecordFirstSupplierVersionTime": "2021-10-09T20:08:18",
+                        "d2lm$probabilityOfOccurrence": "certain",
+                        "d2lm$validity": {
+                            "d2lm$validityStatus": "active",
+                            "d2lm$validityTimeSpecification": {
+                                "d2lm$overallStartTime": "2021-10-09T20:08:18"
+                            }
+                        },
+                        "d2lm$groupOfLocations": {
+                            "d2lm$locationContainedInGroup": {
+                                "@xsi$type": "d2lm:Point",
+                                "d2lm$pointByCoordinates": {
+                                    "d2lm$pointCoordinates": {
+                                        "d2lm$latitude": "55.86007562778954",
+                                        "d2lm$longitude": "-4.266947136483616"
+                                    }
+                                }
+                            }
+                        },
+                        "d2lm$carParkIdentity": "Glasgow - Cadogan Square Car Par:CPG06C",
+                        "d2lm$carParkOccupancy": "6.7",
+                        "d2lm$carParkStatus": "enoughSpacesAvailable",
+                        "d2lm$occupiedSpaces": "22",
+                        "d2lm$totalCapacity": "325"
+                    }
+                },
+                {
+                    "@id": "CPG05C",
+                    "d2lm$headerInformation": {
+                        "d2lm$confidentiality": "noRestriction",
+                        "d2lm$informationStatus": "real"
+                    },
+                    "d2lm$situationRecord": {
+                        "@id": "CPG05C_1",
+                        "@xsi$type": "d2lm:CarParks",
+                        "d2lm$situationRecordCreationTime": "2021-10-09T06:30:10",
+                        "d2lm$situationRecordVersion": "1",
+                        "d2lm$situationRecordVersionTime": "2021-10-09T06:30:10",
+                        "d2lm$situationRecordFirstSupplierVersionTime": "2021-10-09T06:30:10",
+                        "d2lm$probabilityOfOccurrence": "certain",
+                        "d2lm$validity": {
+                            "d2lm$validityStatus": "active",
+                            "d2lm$validityTimeSpecification": {
+                                "d2lm$overallStartTime": "2021-10-09T06:30:10"
+                            }
+                        },
+                        "d2lm$groupOfLocations": {
+                            "d2lm$locationContainedInGroup": {
+                                "@xsi$type": "d2lm:Point",
+                                "d2lm$pointByCoordinates": {
+                                    "d2lm$pointCoordinates": {
+                                        "d2lm$latitude": "55.850235839806565",
+                                        "d2lm$longitude": "-4.273195914676682"
+                                    }
+                                }
+                            }
+                        },
+                        "d2lm$carParkIdentity": "Kinning Park - Shields Road Park:CPG05C",
+                        "d2lm$carParkOccupancy": "0.0",
+                        "d2lm$carParkStatus": "enoughSpacesAvailable",
+                        "d2lm$occupiedSpaces": "0",
+                        "d2lm$totalCapacity": "814"
+                    }
+                },
+                {
+                    "@id": "CPG04C",
+                    "d2lm$headerInformation": {
+                        "d2lm$confidentiality": "noRestriction",
+                        "d2lm$informationStatus": "real"
+                    },
+                    "d2lm$situationRecord": {
+                        "@id": "CPG04C_1",
+                        "@xsi$type": "d2lm:CarParks",
+                        "d2lm$situationRecordCreationTime": "2021-10-09T07:00:11",
+                        "d2lm$situationRecordVersion": "1",
+                        "d2lm$situationRecordVersionTime": "2021-10-09T07:00:11",
+                        "d2lm$situationRecordFirstSupplierVersionTime": "2021-10-09T07:00:11",
+                        "d2lm$probabilityOfOccurrence": "certain",
+                        "d2lm$validity": {
+                            "d2lm$validityStatus": "active",
+                            "d2lm$validityTimeSpecification": {
+                                "d2lm$overallStartTime": "2021-10-09T07:00:11"
+                            }
+                        },
+                        "d2lm$groupOfLocations": {
+                            "d2lm$locationContainedInGroup": {
+                                "@xsi$type": "d2lm:Point",
+                                "d2lm$pointByCoordinates": {
+                                    "d2lm$pointCoordinates": {
+                                        "d2lm$latitude": "55.86379621893744",
+                                        "d2lm$longitude": "-4.24982359238236"
+                                    }
+                                }
+                            }
+                        },
+                        "d2lm$carParkIdentity": "Glasgow - Buchanan Galleries Car:CPG04C",
+                        "d2lm$carParkOccupancy": "1.4",
+                        "d2lm$carParkStatus": "enoughSpacesAvailable",
+                        "d2lm$occupiedSpaces": "28",
+                        "d2lm$totalCapacity": "2000"
+                    }
+                },
+                {
+                    "@id": "CPG03C",
+                    "d2lm$headerInformation": {
+                        "d2lm$confidentiality": "noRestriction",
+                        "d2lm$informationStatus": "real"
+                    },
+                    "d2lm$situationRecord": {
+                        "@id": "CPG03C_1",
+                        "@xsi$type": "d2lm:CarParks",
+                        "d2lm$situationRecordCreationTime": "2021-10-09T20:08:18",
+                        "d2lm$situationRecordVersion": "1",
+                        "d2lm$situationRecordVersionTime": "2021-10-09T20:08:18",
+                        "d2lm$situationRecordFirstSupplierVersionTime": "2021-10-09T20:08:18",
+                        "d2lm$probabilityOfOccurrence": "certain",
+                        "d2lm$validity": {
+                            "d2lm$validityStatus": "active",
+                            "d2lm$validityTimeSpecification": {
+                                "d2lm$overallStartTime": "2021-10-09T20:08:18"
+                            }
+                        },
+                        "d2lm$groupOfLocations": {
+                            "d2lm$locationContainedInGroup": {
+                                "@xsi$type": "d2lm:Point",
+                                "d2lm$pointByCoordinates": {
+                                    "d2lm$pointCoordinates": {
+                                        "d2lm$latitude": "55.86639252958139",
+                                        "d2lm$longitude": "-4.258220948854107"
+                                    }
+                                }
+                            }
+                        },
+                        "d2lm$carParkIdentity": "Glasgow - Cambridge Street Car P:CPG03C",
+                        "d2lm$carParkOccupancy": "22.0",
+                        "d2lm$carParkStatus": "enoughSpacesAvailable",
+                        "d2lm$occupiedSpaces": "179",
+                        "d2lm$totalCapacity": "812"
+                    }
+                },
+                {
+                    "@id": "CPG02C",
+                    "d2lm$headerInformation": {
+                        "d2lm$confidentiality": "noRestriction",
+                        "d2lm$informationStatus": "real"
+                    },
+                    "d2lm$situationRecord": {
+                        "@id": "CPG02C_1",
+                        "@xsi$type": "d2lm:CarParks",
+                        "d2lm$situationRecordCreationTime": "2021-10-09T20:08:19",
+                        "d2lm$situationRecordVersion": "1",
+                        "d2lm$situationRecordVersionTime": "2021-10-09T20:08:19",
+                        "d2lm$situationRecordFirstSupplierVersionTime": "2021-10-09T20:08:19",
+                        "d2lm$probabilityOfOccurrence": "certain",
+                        "d2lm$validity": {
+                            "d2lm$validityStatus": "active",
+                            "d2lm$validityTimeSpecification": {
+                                "d2lm$overallStartTime": "2021-10-09T20:08:19"
+                            }
+                        },
+                        "d2lm$groupOfLocations": {
+                            "d2lm$locationContainedInGroup": {
+                                "@xsi$type": "d2lm:Point",
+                                "d2lm$pointByCoordinates": {
+                                    "d2lm$pointCoordinates": {
+                                        "d2lm$latitude": "55.86577732200993",
+                                        "d2lm$longitude": "-4.252559328401379"
+                                    }
+                                }
+                            }
+                        },
+                        "d2lm$carParkIdentity": "Glasgow - Concert Square Car Par:CPG02C",
+                        "d2lm$carParkOccupancy": "55.5",
+                        "d2lm$carParkStatus": "enoughSpacesAvailable",
+                        "d2lm$occupiedSpaces": "329",
+                        "d2lm$totalCapacity": "592"
+                    }
+                },
+                {
+                    "@id": "CPG01C",
+                    "d2lm$headerInformation": {
+                        "d2lm$confidentiality": "noRestriction",
+                        "d2lm$informationStatus": "real"
+                    },
+                    "d2lm$situationRecord": {
+                        "@id": "CPG01C_1",
+                        "@xsi$type": "d2lm:CarParks",
+                        "d2lm$situationRecordCreationTime": "2021-10-09T20:08:18",
+                        "d2lm$situationRecordVersion": "1",
+                        "d2lm$situationRecordVersionTime": "2021-10-09T20:08:18",
+                        "d2lm$situationRecordFirstSupplierVersionTime": "2021-10-09T20:08:18",
+                        "d2lm$probabilityOfOccurrence": "certain",
+                        "d2lm$validity": {
+                            "d2lm$validityStatus": "active",
+                            "d2lm$validityTimeSpecification": {
+                                "d2lm$overallStartTime": "2021-10-09T20:08:18"
+                            }
+                        },
+                        "d2lm$groupOfLocations": {
+                            "d2lm$locationContainedInGroup": {
+                                "@xsi$type": "d2lm:Point",
+                                "d2lm$pointByCoordinates": {
+                                    "d2lm$pointCoordinates": {
+                                        "d2lm$latitude": "55.867862665358366",
+                                        "d2lm$longitude": "-4.25793867759705"
+                                    }
+                                }
+                            }
+                        },
+                        "d2lm$carParkIdentity": "Glasgow - Dundasvale Car Park 1:CPG01C",
+                        "d2lm$carParkOccupancy": "22.9",
+                        "d2lm$carParkStatus": "enoughSpacesAvailable",
+                        "d2lm$occupiedSpaces": "86",
+                        "d2lm$totalCapacity": "375"
+                    }
+                }
+            ]
+        }
+    }
+}

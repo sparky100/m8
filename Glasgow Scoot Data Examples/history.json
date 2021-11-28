@@ -1,0 +1,1352 @@
+[
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GC2381_T",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Bulldale Road",
+                "lat": "55.88630723491306",
+                "long": "-4.376194906434908"
+            },
+            "to": {
+                "description": "Bulldale Road",
+                "lat": "55.886899038949245",
+                "long": "-4.3753355419780835"
+            },
+            "id": "site-GC2381_T",
+            "_id": "site-GC2381_T"
+        },
+        "timestamp": "2021-11-17T20:10:11",
+        "flow": 0,
+        "concentration": 0,
+        "id": "movement-cd77bc11-54c8-4525-a96c-0b96d6debb5e",
+        "_id": "movement-cd77bc11-54c8-4525-a96c-0b96d6debb5e"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GC2381_R",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Dumbarton Road inbound to Bulldale St",
+                "lat": "55.88791083146969",
+                "long": "-4.3778601932779795"
+            },
+            "to": {
+                "description": "Dumbarton Road inbound to Bulldale St",
+                "lat": "55.88820586620821",
+                "long": "-4.378405994326701"
+            },
+            "id": "site-GC2381_R",
+            "_id": "site-GC2381_R"
+        },
+        "timestamp": "2021-11-17T20:10:11",
+        "flow": 0,
+        "concentration": 0,
+        "id": "movement-82755b0d-d010-4b28-9fbd-cec382fcbb9c",
+        "_id": "movement-82755b0d-d010-4b28-9fbd-cec382fcbb9c"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GC4151_E",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Congress Way Northbound Outside to Pointhouse Rd",
+                "lat": "55.85985056415024",
+                "long": "-4.283489648996855"
+            },
+            "to": {
+                "description": "Congress Way Northbound Outside to Pointhouse Rd",
+                "lat": "55.85935619571898",
+                "long": "-4.283492595662314"
+            },
+            "id": "site-GC4151_E",
+            "_id": "site-GC4151_E"
+        },
+        "timestamp": "2021-11-17T20:10:11",
+        "flow": 21,
+        "concentration": 0,
+        "id": "movement-1d8f6ce8-b384-4672-9011-f764b0bc3d37",
+        "_id": "movement-1d8f6ce8-b384-4672-9011-f764b0bc3d37"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GC4151_A",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Stobcross Road Eastbound to Pointhouse Road",
+                "lat": "55.860894822588506",
+                "long": "-4.284365958508686"
+            },
+            "to": {
+                "description": "Stobcross Road Eastbound to Pointhouse Road",
+                "lat": "55.86038667864348",
+                "long": "-4.2826901232101795"
+            },
+            "id": "site-GC4151_A",
+            "_id": "site-GC4151_A"
+        },
+        "timestamp": "2021-11-17T20:10:11",
+        "flow": 4,
+        "concentration": 0,
+        "id": "movement-968af045-66ad-440e-a243-1c800707bc07",
+        "_id": "movement-968af045-66ad-440e-a243-1c800707bc07"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GB0501_A",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Clyde Place to Bridge Street eastbound",
+                "lat": "55.8549006837386",
+                "long": "-4.259519372285604"
+            },
+            "to": {
+                "description": "Clyde Place to Bridge Street eastbound",
+                "lat": "55.85476337655625",
+                "long": "-4.25965520363947"
+            },
+            "id": "site-GB0501_A",
+            "_id": "site-GB0501_A"
+        },
+        "timestamp": "2021-11-17T20:10:11",
+        "flow": 9,
+        "concentration": 0,
+        "id": "movement-c6c4191b-b4fc-46a2-b3a5-5c4baf68f683",
+        "_id": "movement-c6c4191b-b4fc-46a2-b3a5-5c4baf68f683"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GB0751_V",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Eglinton Street northbound to Cumberland St",
+                "lat": "55.84708106668321",
+                "long": "-4.2610144172166216"
+            },
+            "to": {
+                "description": "Eglinton Street northbound to Cumberland St",
+                "lat": "55.84699480770674",
+                "long": "-4.260817707095752"
+            },
+            "id": "site-GB0751_V",
+            "_id": "site-GB0751_V"
+        },
+        "timestamp": "2021-11-17T20:10:11",
+        "flow": 18,
+        "concentration": 0,
+        "id": "movement-631f5db1-7627-47fb-9f92-5ce5931eac96",
+        "_id": "movement-631f5db1-7627-47fb-9f92-5ce5931eac96"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GG1751_B",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Auchinlea Road",
+                "lat": "0",
+                "long": "0"
+            },
+            "to": {
+                "description": "Auchinlea Road",
+                "lat": "0",
+                "long": "0"
+            },
+            "id": "site-GG1751_B",
+            "_id": "site-GG1751_B"
+        },
+        "timestamp": "2021-11-17T20:10:11",
+        "flow": 9,
+        "concentration": 0,
+        "id": "movement-76544142-5f45-4f85-9274-6e0f9074ec80",
+        "_id": "movement-76544142-5f45-4f85-9274-6e0f9074ec80"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GD0351_B",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "GWR to QMD.",
+                "lat": "55.877086479612586",
+                "long": "-4.287475433401904"
+            },
+            "to": {
+                "description": "GWR to QMD.",
+                "lat": "55.877007164778846",
+                "long": "-4.287390830137925"
+            },
+            "id": "site-GD0351_B",
+            "_id": "site-GD0351_B"
+        },
+        "timestamp": "2021-11-17T20:10:11",
+        "flow": 41,
+        "concentration": 0,
+        "id": "movement-969de671-cdf1-4ea1-a638-ecb9ed5a553d",
+        "_id": "movement-969de671-cdf1-4ea1-a638-ecb9ed5a553d"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GD0351_A",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Great Western Rd to Queen Margaret Dr",
+                "lat": "55.88038589643985",
+                "long": "-4.297071000505625"
+            },
+            "to": {
+                "description": "Great Western Rd to Queen Margaret Dr",
+                "lat": "55.880612456886276",
+                "long": "-4.297452132876691"
+            },
+            "id": "site-GD0351_A",
+            "_id": "site-GD0351_A"
+        },
+        "timestamp": "2021-11-17T20:10:11",
+        "flow": 18,
+        "concentration": 0,
+        "id": "movement-08e43c71-686e-41e6-b2fc-4f3dacb0e03b",
+        "_id": "movement-08e43c71-686e-41e6-b2fc-4f3dacb0e03b"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GG0401_V",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Cumbernauld Rd Northbound Outside Lane",
+                "lat": "55.862871060235996",
+                "long": "-4.1990931697624605"
+            },
+            "to": {
+                "description": "Cumbernauld Rd Northbound Outside Lane",
+                "lat": "55.863366023371135",
+                "long": "-4.198050389395045"
+            },
+            "id": "site-GG0401_V",
+            "_id": "site-GG0401_V"
+        },
+        "timestamp": "2021-11-17T20:10:11",
+        "flow": 4,
+        "concentration": 0,
+        "id": "movement-64589ed7-a604-4016-a831-f013ba31186a",
+        "_id": "movement-64589ed7-a604-4016-a831-f013ba31186a"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GA4871_H",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "George St westbound",
+                "lat": "55.86034128841467",
+                "long": "-4.240179386155298"
+            },
+            "to": {
+                "description": "George St westbound",
+                "lat": "55.860332601096566",
+                "long": "-4.240162905584023"
+            },
+            "id": "site-GA4871_H",
+            "_id": "site-GA4871_H"
+        },
+        "timestamp": "2021-11-17T20:10:10",
+        "flow": 0,
+        "concentration": 0,
+        "id": "movement-8d349032-dfbd-4af7-a5fe-8273c2786bbc",
+        "_id": "movement-8d349032-dfbd-4af7-a5fe-8273c2786bbc"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GC1401_E",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Argyle Street to Sauchiehall Street",
+                "lat": "55.869042320465105",
+                "long": "-4.29280457054792"
+            },
+            "to": {
+                "description": "Argyle Street to Sauchiehall Street",
+                "lat": "55.869255453811626",
+                "long": "-4.293424537058428"
+            },
+            "id": "site-GC1401_E",
+            "_id": "site-GC1401_E"
+        },
+        "timestamp": "2021-11-17T20:10:11",
+        "flow": 13,
+        "concentration": 0,
+        "id": "movement-fb9e29dc-5881-4fab-aa6a-90a6feb2079e",
+        "_id": "movement-fb9e29dc-5881-4fab-aa6a-90a6feb2079e"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GA5151_P",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Trongate eastbound",
+                "lat": "55.8569387815591",
+                "long": "-4.2449050372045525"
+            },
+            "to": {
+                "description": "Trongate eastbound",
+                "lat": "55.856902816514506",
+                "long": "-4.24539831137419"
+            },
+            "id": "site-GA5151_P",
+            "_id": "site-GA5151_P"
+        },
+        "timestamp": "2021-11-17T20:10:10",
+        "flow": 11,
+        "concentration": 0,
+        "id": "movement-4edca7c9-d50b-4011-aa93-ad982e6cc1cb",
+        "_id": "movement-4edca7c9-d50b-4011-aa93-ad982e6cc1cb"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GA4501_V",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "North Hanover St northbound to Dobbies Loan",
+                "lat": "55.86577968002779",
+                "long": "-4.24849986694222"
+            },
+            "to": {
+                "description": "North Hanover St northbound to Dobbies Loan",
+                "lat": "55.865470928123024",
+                "long": "-4.248673811036969"
+            },
+            "id": "site-GA4501_V",
+            "_id": "site-GA4501_V"
+        },
+        "timestamp": "2021-11-17T20:10:10",
+        "flow": 12,
+        "concentration": 0,
+        "id": "movement-f5d9211f-0f8f-40a6-b402-53a686d9bc81",
+        "_id": "movement-f5d9211f-0f8f-40a6-b402-53a686d9bc81"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GC0151_A",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Argyle Street towards Finnieston Street",
+                "lat": "55.86461833542954",
+                "long": "-4.283737543619468"
+            },
+            "to": {
+                "description": "Argyle Street towards Finnieston Street",
+                "lat": "55.864713534056996",
+                "long": "-4.2839349207927695"
+            },
+            "id": "site-GC0151_A",
+            "_id": "site-GC0151_A"
+        },
+        "timestamp": "2021-11-17T20:10:11",
+        "flow": 17,
+        "concentration": 0,
+        "id": "movement-f3cd830e-8b7e-469d-bf4e-64de9a0bac2e",
+        "_id": "movement-f3cd830e-8b7e-469d-bf4e-64de9a0bac2e"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GH4601_F",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "London Rd Eastbound",
+                "lat": "55.83846655153768",
+                "long": "-4.172001162280879"
+            },
+            "to": {
+                "description": "London Rd Eastbound",
+                "lat": "55.83776115992503",
+                "long": "-4.172249294305278"
+            },
+            "id": "site-GH4601_F",
+            "_id": "site-GH4601_F"
+        },
+        "timestamp": "2021-11-17T20:10:11",
+        "flow": 0,
+        "concentration": 0,
+        "id": "movement-cb54a6e5-4d82-43fd-8e8f-9f70498529e8",
+        "_id": "movement-cb54a6e5-4d82-43fd-8e8f-9f70498529e8"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GB0301_D",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Tradeston Street to Wallace Street southbound",
+                "lat": "55.85312123364121",
+                "long": "-4.263426415815837"
+            },
+            "to": {
+                "description": "Tradeston Street to Wallace Street southbound",
+                "lat": "55.853171408983435",
+                "long": "-4.263141738196234"
+            },
+            "id": "site-GB0301_D",
+            "_id": "site-GB0301_D"
+        },
+        "timestamp": "2021-11-17T20:10:10",
+        "flow": 7,
+        "concentration": 0,
+        "id": "movement-9f558a89-feae-4172-b23f-35ce212d0895",
+        "_id": "movement-9f558a89-feae-4172-b23f-35ce212d0895"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GH3101_V",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Main Street n/b to Poplin St",
+                "lat": "55.8412746341343",
+                "long": "-4.227054945785894"
+            },
+            "to": {
+                "description": "Main Street n/b to Poplin St",
+                "lat": "55.84119874250142",
+                "long": "-4.226779072844545"
+            },
+            "id": "site-GH3101_V",
+            "_id": "site-GH3101_V"
+        },
+        "timestamp": "2021-11-17T20:10:11",
+        "flow": 6,
+        "concentration": 0,
+        "id": "movement-5cd6ebc8-1149-400f-a733-989ea010c7b5",
+        "_id": "movement-5cd6ebc8-1149-400f-a733-989ea010c7b5"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GB1101_B",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Ballater Street westbound",
+                "lat": "55.85147429775186",
+                "long": "-4.251795373003276"
+            },
+            "to": {
+                "description": "Ballater Street westbound",
+                "lat": "55.851641793066776",
+                "long": "-4.252955398146887"
+            },
+            "id": "site-GB1101_B",
+            "_id": "site-GB1101_B"
+        },
+        "timestamp": "2021-11-17T20:10:10",
+        "flow": 12,
+        "concentration": 0,
+        "id": "movement-6782d283-6ddf-469f-ac5c-ab2159d20b8d",
+        "_id": "movement-6782d283-6ddf-469f-ac5c-ab2159d20b8d"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GJ3351_R",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Menock Rd eastbound",
+                "lat": "55.81863120470836",
+                "long": "-4.256362339593715"
+            },
+            "to": {
+                "description": "Menock Rd eastbound",
+                "lat": "55.81849086854625",
+                "long": "-4.255683756017223"
+            },
+            "id": "site-GJ3351_R",
+            "_id": "site-GJ3351_R"
+        },
+        "timestamp": "2021-11-17T20:10:11",
+        "flow": 0,
+        "concentration": 0,
+        "id": "movement-63b5a371-19e8-493a-aaa5-b1ad6959c82b",
+        "_id": "movement-63b5a371-19e8-493a-aaa5-b1ad6959c82b"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GA4721_S",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Osborne Street East Arm",
+                "lat": "55.85617173990172",
+                "long": "-4.248519911070388"
+            },
+            "to": {
+                "description": "Osborne Street East Arm",
+                "lat": "55.85655911434916",
+                "long": "-4.249453090322844"
+            },
+            "id": "site-GA4721_S",
+            "_id": "site-GA4721_S"
+        },
+        "timestamp": "2021-11-17T20:10:10",
+        "flow": 4,
+        "concentration": 0,
+        "id": "movement-5908819a-83fd-4031-a7ce-6b0bbbb70a0d",
+        "_id": "movement-5908819a-83fd-4031-a7ce-6b0bbbb70a0d"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GA2151_S",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Bath Street westbound to Hope Street",
+                "lat": "55.863818038767846",
+                "long": "-4.255993857153411"
+            },
+            "to": {
+                "description": "Bath Street westbound to Hope Street",
+                "lat": "55.863845557995276",
+                "long": "-4.255963489217906"
+            },
+            "id": "site-GA2151_S",
+            "_id": "site-GA2151_S"
+        },
+        "timestamp": "2021-11-17T20:10:12",
+        "flow": 0,
+        "concentration": 0,
+        "id": "movement-ac52e97e-5ebe-4032-b8b7-e41392eed4c5",
+        "_id": "movement-ac52e97e-5ebe-4032-b8b7-e41392eed4c5"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GJ3201_R",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Battlefield Rd",
+                "lat": "55.824415626053",
+                "long": "-4.259491328371662"
+            },
+            "to": {
+                "description": "Battlefield Rd",
+                "lat": "55.82410688116023",
+                "long": "-4.258196175251756"
+            },
+            "id": "site-GJ3201_R",
+            "_id": "site-GJ3201_R"
+        },
+        "timestamp": "2021-11-17T20:10:11",
+        "flow": 0,
+        "concentration": 0,
+        "id": "movement-fe37ae8f-9b56-4be8-9e5f-7e9c133c6a4c",
+        "_id": "movement-fe37ae8f-9b56-4be8-9e5f-7e9c133c6a4c"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GA5471_D",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Motorway off ramp Castle St. southbound",
+                "lat": "55.865429441247834",
+                "long": "-4.236157121242562"
+            },
+            "to": {
+                "description": "Motorway off ramp Castle St. southbound",
+                "lat": "55.8648959825708",
+                "long": "-4.235838776125701"
+            },
+            "id": "site-GA5471_D",
+            "_id": "site-GA5471_D"
+        },
+        "timestamp": "2021-11-17T20:10:10",
+        "flow": 29,
+        "concentration": 0,
+        "id": "movement-ab730a64-a23d-4bc0-b739-6fcd2d6ab018",
+        "_id": "movement-ab730a64-a23d-4bc0-b739-6fcd2d6ab018"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GG2751_A",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Shettleston Rd East to Chester St",
+                "lat": "55.85183299613021",
+                "long": "-4.171868295482324"
+            },
+            "to": {
+                "description": "Shettleston Rd East to Chester St",
+                "lat": "55.85191037902376",
+                "long": "-4.172575586561228"
+            },
+            "id": "site-GG2751_A",
+            "_id": "site-GG2751_A"
+        },
+        "timestamp": "2021-11-17T20:10:11",
+        "flow": 7,
+        "concentration": 0,
+        "id": "movement-02a1f3a4-6749-45b1-b021-d4c6c4f6d1fb",
+        "_id": "movement-02a1f3a4-6749-45b1-b021-d4c6c4f6d1fb"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GG0021_A",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Alexandra Parade eastbound to Wishart Street",
+                "lat": "55.86627401191743",
+                "long": "-4.234191837483145"
+            },
+            "to": {
+                "description": "Alexandra Parade eastbound to Wishart Street",
+                "lat": "55.86610225828142",
+                "long": "-4.234741368662251"
+            },
+            "id": "site-GG0021_A",
+            "_id": "site-GG0021_A"
+        },
+        "timestamp": "2021-11-17T20:10:12",
+        "flow": 13,
+        "concentration": 0,
+        "id": "movement-9fc909b2-6efd-4682-afc8-6136626bd7d1",
+        "_id": "movement-9fc909b2-6efd-4682-afc8-6136626bd7d1"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GL1901_T",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Hillington Road southbound right turn",
+                "lat": "55.8465731249378",
+                "long": "-4.359822404393915"
+            },
+            "to": {
+                "description": "Hillington Road southbound right turn",
+                "lat": "55.84552155892677",
+                "long": "-4.359822556890798"
+            },
+            "id": "site-GL1901_T",
+            "_id": "site-GL1901_T"
+        },
+        "timestamp": "2021-11-17T20:10:11",
+        "flow": 3,
+        "concentration": 0,
+        "id": "movement-6340aa3f-9ed3-4863-951a-2399d33d2e54",
+        "_id": "movement-6340aa3f-9ed3-4863-951a-2399d33d2e54"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GE2151_V",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Springburn Road to Keppochhill Road",
+                "lat": "55.87751512516916",
+                "long": "-4.2323276748869665"
+            },
+            "to": {
+                "description": "Springburn Road to Keppochhill Road",
+                "lat": "55.877432004962884",
+                "long": "-4.232450801952621"
+            },
+            "id": "site-GE2151_V",
+            "_id": "site-GE2151_V"
+        },
+        "timestamp": "2021-11-17T20:10:12",
+        "flow": 20,
+        "concentration": 0,
+        "id": "movement-db27b3a9-0c83-4916-8696-68fec3230f89",
+        "_id": "movement-db27b3a9-0c83-4916-8696-68fec3230f89"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GH050A_S",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Gallowgate east to Alma St",
+                "lat": "55.85421786382005",
+                "long": "-4.214533994439329"
+            },
+            "to": {
+                "description": "Gallowgate east to Alma St",
+                "lat": "55.854293782200436",
+                "long": "-4.214809937159854"
+            },
+            "id": "site-GH050A_S",
+            "_id": "site-GH050A_S"
+        },
+        "timestamp": "2021-11-17T20:10:11",
+        "flow": 10,
+        "concentration": 0,
+        "id": "movement-99ee4862-8f54-4c6f-ba4f-3ef8cd2e2a56",
+        "_id": "movement-99ee4862-8f54-4c6f-ba4f-3ef8cd2e2a56"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GA4551_T",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "George Square east side (N. Fredrick Street)",
+                "lat": "55.86123268267249",
+                "long": "-4.248956214731358"
+            },
+            "to": {
+                "description": "George Square east side (N. Fredrick Street)",
+                "lat": "55.86054138016148",
+                "long": "-4.248916255633903"
+            },
+            "id": "site-GA4551_T",
+            "_id": "site-GA4551_T"
+        },
+        "timestamp": "2021-11-17T20:10:10",
+        "flow": 13,
+        "concentration": 0,
+        "id": "movement-4b53307a-7765-4222-b3f7-a2b2e68f0eb1",
+        "_id": "movement-4b53307a-7765-4222-b3f7-a2b2e68f0eb1"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GB0351_T",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Tradeston Street to Cook Street southbound",
+                "lat": "55.85212573722932",
+                "long": "-4.263799903239596"
+            },
+            "to": {
+                "description": "Tradeston Street to Cook Street southbound",
+                "lat": "55.852191225829486",
+                "long": "-4.263659918180315"
+            },
+            "id": "site-GB0351_T",
+            "_id": "site-GB0351_T"
+        },
+        "timestamp": "2021-11-17T20:10:10",
+        "flow": 18,
+        "concentration": 0,
+        "id": "movement-c7ebe9e3-afca-403c-8c76-bace1ddaf33e",
+        "_id": "movement-c7ebe9e3-afca-403c-8c76-bace1ddaf33e"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:15:00.4461516Z",
+        "batchIdentifier": "dff795b0-5d59-4b1d-a570-cae0a4e3a41a",
+        "site": {
+            "type": "Location",
+            "siteId": "GA5751_T",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Pinkston Road",
+                "lat": "55.86923861751409",
+                "long": "-4.238709782908749"
+            },
+            "to": {
+                "description": "Pinkston Road",
+                "lat": "55.8690661389906",
+                "long": "-4.235838725498642"
+            },
+            "id": "site-GA5751_T",
+            "_id": "site-GA5751_T"
+        },
+        "timestamp": "2021-11-17T20:10:12",
+        "flow": 0,
+        "concentration": 0,
+        "id": "movement-ea8d2cac-825e-4c3d-92ad-1c199e7f74da",
+        "_id": "movement-ea8d2cac-825e-4c3d-92ad-1c199e7f74da"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:30:00.1811869Z",
+        "batchIdentifier": "4713f9fb-697d-40f7-a4f0-ca8bd82bc945",
+        "site": {
+            "type": "Location",
+            "siteId": "GC2381_T",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Bulldale Road",
+                "lat": "55.88630723491306",
+                "long": "-4.376194906434908"
+            },
+            "to": {
+                "description": "Bulldale Road",
+                "lat": "55.886899038949245",
+                "long": "-4.3753355419780835"
+            },
+            "id": "site-GC2381_T",
+            "_id": "site-GC2381_T"
+        },
+        "timestamp": "2021-11-17T20:25:11",
+        "flow": 0,
+        "concentration": 0,
+        "id": "movement-f0fe34b1-d2b7-4ba9-a6d1-44ab360ee0ec",
+        "_id": "movement-f0fe34b1-d2b7-4ba9-a6d1-44ab360ee0ec"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:30:00.1811869Z",
+        "batchIdentifier": "4713f9fb-697d-40f7-a4f0-ca8bd82bc945",
+        "site": {
+            "type": "Location",
+            "siteId": "GC2381_R",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Dumbarton Road inbound to Bulldale St",
+                "lat": "55.88791083146969",
+                "long": "-4.3778601932779795"
+            },
+            "to": {
+                "description": "Dumbarton Road inbound to Bulldale St",
+                "lat": "55.88820586620821",
+                "long": "-4.378405994326701"
+            },
+            "id": "site-GC2381_R",
+            "_id": "site-GC2381_R"
+        },
+        "timestamp": "2021-11-17T20:25:11",
+        "flow": 0,
+        "concentration": 0,
+        "id": "movement-aff99c5a-bc68-47a8-82b6-d20e71a6a7f5",
+        "_id": "movement-aff99c5a-bc68-47a8-82b6-d20e71a6a7f5"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:30:00.1811869Z",
+        "batchIdentifier": "4713f9fb-697d-40f7-a4f0-ca8bd82bc945",
+        "site": {
+            "type": "Location",
+            "siteId": "GC4151_E",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Congress Way Northbound Outside to Pointhouse Rd",
+                "lat": "55.85985056415024",
+                "long": "-4.283489648996855"
+            },
+            "to": {
+                "description": "Congress Way Northbound Outside to Pointhouse Rd",
+                "lat": "55.85935619571898",
+                "long": "-4.283492595662314"
+            },
+            "id": "site-GC4151_E",
+            "_id": "site-GC4151_E"
+        },
+        "timestamp": "2021-11-17T20:25:11",
+        "flow": 7,
+        "concentration": 0,
+        "id": "movement-4b183207-e7c0-4ec5-a441-98a17d001de1",
+        "_id": "movement-4b183207-e7c0-4ec5-a441-98a17d001de1"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:30:00.1811869Z",
+        "batchIdentifier": "4713f9fb-697d-40f7-a4f0-ca8bd82bc945",
+        "site": {
+            "type": "Location",
+            "siteId": "GC4151_A",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Stobcross Road Eastbound to Pointhouse Road",
+                "lat": "55.860894822588506",
+                "long": "-4.284365958508686"
+            },
+            "to": {
+                "description": "Stobcross Road Eastbound to Pointhouse Road",
+                "lat": "55.86038667864348",
+                "long": "-4.2826901232101795"
+            },
+            "id": "site-GC4151_A",
+            "_id": "site-GC4151_A"
+        },
+        "timestamp": "2021-11-17T20:25:11",
+        "flow": 4,
+        "concentration": 0,
+        "id": "movement-b8a4489a-e95d-4e1f-a8b5-85aaa2c45415",
+        "_id": "movement-b8a4489a-e95d-4e1f-a8b5-85aaa2c45415"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:30:00.1811869Z",
+        "batchIdentifier": "4713f9fb-697d-40f7-a4f0-ca8bd82bc945",
+        "site": {
+            "type": "Location",
+            "siteId": "GB0501_A",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Clyde Place to Bridge Street eastbound",
+                "lat": "55.8549006837386",
+                "long": "-4.259519372285604"
+            },
+            "to": {
+                "description": "Clyde Place to Bridge Street eastbound",
+                "lat": "55.85476337655625",
+                "long": "-4.25965520363947"
+            },
+            "id": "site-GB0501_A",
+            "_id": "site-GB0501_A"
+        },
+        "timestamp": "2021-11-17T20:25:11",
+        "flow": 9,
+        "concentration": 0,
+        "id": "movement-57e1ab9b-389b-410d-a3af-4287552afe0a",
+        "_id": "movement-57e1ab9b-389b-410d-a3af-4287552afe0a"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:30:00.1811869Z",
+        "batchIdentifier": "4713f9fb-697d-40f7-a4f0-ca8bd82bc945",
+        "site": {
+            "type": "Location",
+            "siteId": "GB0751_V",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Eglinton Street northbound to Cumberland St",
+                "lat": "55.84708106668321",
+                "long": "-4.2610144172166216"
+            },
+            "to": {
+                "description": "Eglinton Street northbound to Cumberland St",
+                "lat": "55.84699480770674",
+                "long": "-4.260817707095752"
+            },
+            "id": "site-GB0751_V",
+            "_id": "site-GB0751_V"
+        },
+        "timestamp": "2021-11-17T20:25:11",
+        "flow": 18,
+        "concentration": 0,
+        "id": "movement-8ab6eaa1-0d9b-40f3-8dbe-207dad87db51",
+        "_id": "movement-8ab6eaa1-0d9b-40f3-8dbe-207dad87db51"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:30:00.1811869Z",
+        "batchIdentifier": "4713f9fb-697d-40f7-a4f0-ca8bd82bc945",
+        "site": {
+            "type": "Location",
+            "siteId": "GG1751_B",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Auchinlea Road",
+                "lat": "0",
+                "long": "0"
+            },
+            "to": {
+                "description": "Auchinlea Road",
+                "lat": "0",
+                "long": "0"
+            },
+            "id": "site-GG1751_B",
+            "_id": "site-GG1751_B"
+        },
+        "timestamp": "2021-11-17T20:25:11",
+        "flow": 9,
+        "concentration": 0,
+        "id": "movement-05ad7218-be60-4b6e-aba3-73ef112cec77",
+        "_id": "movement-05ad7218-be60-4b6e-aba3-73ef112cec77"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:30:00.1811869Z",
+        "batchIdentifier": "4713f9fb-697d-40f7-a4f0-ca8bd82bc945",
+        "site": {
+            "type": "Location",
+            "siteId": "GD0351_B",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "GWR to QMD.",
+                "lat": "55.877086479612586",
+                "long": "-4.287475433401904"
+            },
+            "to": {
+                "description": "GWR to QMD.",
+                "lat": "55.877007164778846",
+                "long": "-4.287390830137925"
+            },
+            "id": "site-GD0351_B",
+            "_id": "site-GD0351_B"
+        },
+        "timestamp": "2021-11-17T20:25:11",
+        "flow": 19,
+        "concentration": 0,
+        "id": "movement-e3f8e3a3-e1a8-4162-a856-2be8a3a1bcdc",
+        "_id": "movement-e3f8e3a3-e1a8-4162-a856-2be8a3a1bcdc"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:30:00.1811869Z",
+        "batchIdentifier": "4713f9fb-697d-40f7-a4f0-ca8bd82bc945",
+        "site": {
+            "type": "Location",
+            "siteId": "GD0351_A",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Great Western Rd to Queen Margaret Dr",
+                "lat": "55.88038589643985",
+                "long": "-4.297071000505625"
+            },
+            "to": {
+                "description": "Great Western Rd to Queen Margaret Dr",
+                "lat": "55.880612456886276",
+                "long": "-4.297452132876691"
+            },
+            "id": "site-GD0351_A",
+            "_id": "site-GD0351_A"
+        },
+        "timestamp": "2021-11-17T20:25:11",
+        "flow": 18,
+        "concentration": 0,
+        "id": "movement-8705ee0e-9ca1-4181-827f-32119e57c3ba",
+        "_id": "movement-8705ee0e-9ca1-4181-827f-32119e57c3ba"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:30:00.1811869Z",
+        "batchIdentifier": "4713f9fb-697d-40f7-a4f0-ca8bd82bc945",
+        "site": {
+            "type": "Location",
+            "siteId": "GG0401_V",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Cumbernauld Rd Northbound Outside Lane",
+                "lat": "55.862871060235996",
+                "long": "-4.1990931697624605"
+            },
+            "to": {
+                "description": "Cumbernauld Rd Northbound Outside Lane",
+                "lat": "55.863366023371135",
+                "long": "-4.198050389395045"
+            },
+            "id": "site-GG0401_V",
+            "_id": "site-GG0401_V"
+        },
+        "timestamp": "2021-11-17T20:25:11",
+        "flow": 7,
+        "concentration": 0,
+        "id": "movement-653ac7b9-a903-4385-9806-aa9c077365d2",
+        "_id": "movement-653ac7b9-a903-4385-9806-aa9c077365d2"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:30:00.1811869Z",
+        "batchIdentifier": "4713f9fb-697d-40f7-a4f0-ca8bd82bc945",
+        "site": {
+            "type": "Location",
+            "siteId": "GA4871_H",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "George St westbound",
+                "lat": "55.86034128841467",
+                "long": "-4.240179386155298"
+            },
+            "to": {
+                "description": "George St westbound",
+                "lat": "55.860332601096566",
+                "long": "-4.240162905584023"
+            },
+            "id": "site-GA4871_H",
+            "_id": "site-GA4871_H"
+        },
+        "timestamp": "2021-11-17T20:25:10",
+        "flow": 0,
+        "concentration": 0,
+        "id": "movement-aff171c5-1f5e-45a1-986b-79cc1760786a",
+        "_id": "movement-aff171c5-1f5e-45a1-986b-79cc1760786a"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:30:00.1811869Z",
+        "batchIdentifier": "4713f9fb-697d-40f7-a4f0-ca8bd82bc945",
+        "site": {
+            "type": "Location",
+            "siteId": "GC1401_E",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Argyle Street to Sauchiehall Street",
+                "lat": "55.869042320465105",
+                "long": "-4.29280457054792"
+            },
+            "to": {
+                "description": "Argyle Street to Sauchiehall Street",
+                "lat": "55.869255453811626",
+                "long": "-4.293424537058428"
+            },
+            "id": "site-GC1401_E",
+            "_id": "site-GC1401_E"
+        },
+        "timestamp": "2021-11-17T20:25:11",
+        "flow": 13,
+        "concentration": 0,
+        "id": "movement-4db9bb9b-4ee3-4abb-97f8-fe35e0ecd100",
+        "_id": "movement-4db9bb9b-4ee3-4abb-97f8-fe35e0ecd100"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:30:00.1811869Z",
+        "batchIdentifier": "4713f9fb-697d-40f7-a4f0-ca8bd82bc945",
+        "site": {
+            "type": "Location",
+            "siteId": "GA5151_P",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Trongate eastbound",
+                "lat": "55.8569387815591",
+                "long": "-4.2449050372045525"
+            },
+            "to": {
+                "description": "Trongate eastbound",
+                "lat": "55.856902816514506",
+                "long": "-4.24539831137419"
+            },
+            "id": "site-GA5151_P",
+            "_id": "site-GA5151_P"
+        },
+        "timestamp": "2021-11-17T20:25:10",
+        "flow": 7,
+        "concentration": 0,
+        "id": "movement-6442830e-2198-43e9-a993-d96fd5014f25",
+        "_id": "movement-6442830e-2198-43e9-a993-d96fd5014f25"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:30:00.1811869Z",
+        "batchIdentifier": "4713f9fb-697d-40f7-a4f0-ca8bd82bc945",
+        "site": {
+            "type": "Location",
+            "siteId": "GA4501_V",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "North Hanover St northbound to Dobbies Loan",
+                "lat": "55.86577968002779",
+                "long": "-4.24849986694222"
+            },
+            "to": {
+                "description": "North Hanover St northbound to Dobbies Loan",
+                "lat": "55.865470928123024",
+                "long": "-4.248673811036969"
+            },
+            "id": "site-GA4501_V",
+            "_id": "site-GA4501_V"
+        },
+        "timestamp": "2021-11-17T20:25:10",
+        "flow": 10,
+        "concentration": 0,
+        "id": "movement-5bd8fe19-5e36-43d4-9706-54c99b9ac935",
+        "_id": "movement-5bd8fe19-5e36-43d4-9706-54c99b9ac935"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:30:00.1811869Z",
+        "batchIdentifier": "4713f9fb-697d-40f7-a4f0-ca8bd82bc945",
+        "site": {
+            "type": "Location",
+            "siteId": "GC0151_A",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Argyle Street towards Finnieston Street",
+                "lat": "55.86461833542954",
+                "long": "-4.283737543619468"
+            },
+            "to": {
+                "description": "Argyle Street towards Finnieston Street",
+                "lat": "55.864713534056996",
+                "long": "-4.2839349207927695"
+            },
+            "id": "site-GC0151_A",
+            "_id": "site-GC0151_A"
+        },
+        "timestamp": "2021-11-17T20:25:11",
+        "flow": 13,
+        "concentration": 0,
+        "id": "movement-e898f627-358e-4525-9f49-d73375cae26a",
+        "_id": "movement-e898f627-358e-4525-9f49-d73375cae26a"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:30:00.1811869Z",
+        "batchIdentifier": "4713f9fb-697d-40f7-a4f0-ca8bd82bc945",
+        "site": {
+            "type": "Location",
+            "siteId": "GH4601_F",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "London Rd Eastbound",
+                "lat": "55.83846655153768",
+                "long": "-4.172001162280879"
+            },
+            "to": {
+                "description": "London Rd Eastbound",
+                "lat": "55.83776115992503",
+                "long": "-4.172249294305278"
+            },
+            "id": "site-GH4601_F",
+            "_id": "site-GH4601_F"
+        },
+        "timestamp": "2021-11-17T20:25:11",
+        "flow": 0,
+        "concentration": 0,
+        "id": "movement-12d6be05-e481-460c-94cd-d3d3903f910f",
+        "_id": "movement-12d6be05-e481-460c-94cd-d3d3903f910f"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:30:00.1811869Z",
+        "batchIdentifier": "4713f9fb-697d-40f7-a4f0-ca8bd82bc945",
+        "site": {
+            "type": "Location",
+            "siteId": "GB0301_D",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Tradeston Street to Wallace Street southbound",
+                "lat": "55.85312123364121",
+                "long": "-4.263426415815837"
+            },
+            "to": {
+                "description": "Tradeston Street to Wallace Street southbound",
+                "lat": "55.853171408983435",
+                "long": "-4.263141738196234"
+            },
+            "id": "site-GB0301_D",
+            "_id": "site-GB0301_D"
+        },
+        "timestamp": "2021-11-17T20:25:10",
+        "flow": 10,
+        "concentration": 0,
+        "id": "movement-3f077fa5-83be-41ba-ac20-511810457c1b",
+        "_id": "movement-3f077fa5-83be-41ba-ac20-511810457c1b"
+    },
+    {
+        "type": "Location",
+        "lastUpdate": "2021-11-17T20:30:00.1811869Z",
+        "batchIdentifier": "4713f9fb-697d-40f7-a4f0-ca8bd82bc945",
+        "site": {
+            "type": "Location",
+            "siteId": "GH3101_V",
+            "lastUpdate": "0001-01-01T00:00:00",
+            "from": {
+                "description": "Main Street n/b to Poplin St",
+                "lat": "55.8412746341343",
+                "long": "-4.227054945785894"
+            },
+            "to": {
+                "description": "Main Street n/b to Poplin St",
+                "lat": "55.84119874250142",
+                "long": "-4.226779072844545"
+            },
+            "id": "site-GH3101_V",
+            "_id": "site-GH3101_V"
+        },
+        "timestamp": "2021-11-17T20:25:11",
+        "flow": 4,
+        "concentration": 0,
+        "id": "movement-b53eb31a-8cb8-4a9b-a64f-3529eb97d9e0",
+        "_id": "movement-b53eb31a-8cb8-4a9b-a64f-3529eb97d9e0"
+    }
+]
