@@ -1,0 +1,25 @@
+c4c89f4d-5521-47f9-a0ee-e5ae7e1363b7 -client id
+9.phQwyZDvX5VcJg2IutGhD7KOZWZQSuZLI2nlYgUy7-x-ZHnBSm-1mAFxZT.DDt - client key
+
+publications/TrafficStatusData/Content.xml
+
+
+
+
+HttpClient client = HttpClient.newHttpClient();
+HttpRequest.Builder httpRequestBuilder = HttpRequest.newBuilder()
+    .uri(URI.create("https://datex2.trafficscotland.org/rest/2.3/publications/UnplannedEvents/Metadata.xml"))
+    .GET();
+
+httpRequestBuilder.setHeader("Authorization", Base64.getEncoder().encodeToString(("<clientid>" + ":" + "<clientKey>").getBytes()));
+HttpRequest request = httpRequestBuilder.build();
+HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
+
+if (response.statusCode() == HttpURLConnection.HTTP_OK) {
+    // Handle success case.
+} else {
+    // Handle failure case.
+}
+
+
+curl --user c4c89f4d-5521-47f9-a0ee-e5ae7e1363b7:9.phQwyZDvX5VcJg2IutGhD7KOZWZQSuZLI2nlYgUy7-x-ZHnBSm-1mAFxZT.DDt  https://datex2.trafficscotland.org/rest/2.3/publications/TrafficStatusData/Content.xml

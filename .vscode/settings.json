@@ -1,0 +1,28 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Movement (PGSQL)",
+            "database": "movement",
+            "username": "simon",
+            "password": "Babbage65?"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "move",
+            "database": "movement",
+            "username": "simon",
+            "password": "Babbage65?",
+            "connectionTimeout": 5
+        }
+    ]
+}
